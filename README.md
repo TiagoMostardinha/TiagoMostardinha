@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Tiago Mostardinha</h1>
+<h3 align="center">I'm a student of Computer Engineerong from Portugal</h3>
 
 <!--
 **TiagoMostardinha/TiagoMostardinha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
