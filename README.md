@@ -10,10 +10,8 @@ Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptates maxime labo
 
 I have most of my project public, so anyone can see how well i'm doing and what im working on.
 <div display="flex">
-    <!-- <h6 align="center">📫 How to Reach me</h6>
-    <h6>Lorem</h6> -->
-    <p>📫 How to Reach me</p>
-    <p>Lorem</p>
+    <h6 align="30vw">📫 How to Reach me</h6>
+    <h6 align="60vw">Lorem</h6>
 </div>
 
 ### 🛠 Language and Tools:
