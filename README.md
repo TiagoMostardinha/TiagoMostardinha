@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tiago Mostardinha</h1>
+<h4 align="center">I'm a student of Computer Engineering from Portugal</h4>
 
 ### 💬 About Me
 Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptates maxime laborum nemo accusantium! Culpa, dolorum cumque. Perferendis esse quia ab sint est quod, quas iure eligendi, et voluptates ipsam in.
