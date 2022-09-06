@@ -25,8 +25,8 @@ I have most of my project public, so anyone can see how well i'm doing and what 
 
 
 ### 💻 Current project:
-ODIN
-CS50
+[ODIN_PROJECT](https://github.com/TiagoMostardinha/ODIN_PROJECT)
+[CS50_COURSE](https://github.com/TiagoMostardinha/CS50_COURSE)
 
 ### Projects and Dev Stuffs:
 <details>	
