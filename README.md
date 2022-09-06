@@ -39,10 +39,10 @@ CS50
 
 <details>	
   <summary><b>🌱 Currently Learning</b></summary>
-
-  <br />
-  - lorem
-  - ipsum
+  <ul>
+        <li><b>Lorem</b>
+        <li><b>Ipsum</b>
+  </ul>
 </details>
 
 <details>	
