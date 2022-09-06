@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Tiago Mostardinha</h1>
-<h3 align="center">I'm a student of Computer Engineerong from Portugal</h3>
 
-## 💬 About Me
-- Lorem
-- Ipsum
+### 💬 About Me
+Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptates maxime laborum nemo accusantium! Culpa, dolorum cumque. Perferendis esse quia ab sint est quod, quas iure eligendi, et voluptates ipsam in.
 
-## 📅 Hobbies
-- 1
-- 2
-- 3
+- a
+- b
+- c
+
+### Language and Tools:
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html"></code>
 
 ## 💻 Current project
 
