@@ -24,11 +24,11 @@ I have most of my project public, so anyone can see how well i'm doing and what 
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
 
 
-### 💻 Current project:
+### 💻 Current Projects:
 [ODIN_PROJECT](https://github.com/TiagoMostardinha/ODIN_PROJECT)<br/>
 [CS50_COURSE](https://github.com/TiagoMostardinha/CS50_COURSE)
 
-### Projects and Dev Stuffs:
+### 💡 Projects and Dev Stuffs:
 <details>	
   <summary><b>⚡ Github Stats</b></summary>
 
