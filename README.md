@@ -28,7 +28,7 @@ I have most of my project public, so anyone can see how well i'm doing and what 
 [ODIN_PROJECT](https://github.com/TiagoMostardinha/ODIN_PROJECT)<br/>
 [CS50_COURSE](https://github.com/TiagoMostardinha/CS50_COURSE)
 
-### 💡 Projects and Dev Stuffs:
+### Projects and Dev Stuffs:
 <details>	
   <summary><b>⚡ Github Stats</b></summary>
 
