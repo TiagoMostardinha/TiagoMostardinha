@@ -1,9 +1,14 @@
 <h1 align="center">Hi 👋, I'm Tiago Mostardinha</h1>
 <h3 align="center">I'm a student of Computer Engineerong from Portugal</h3>
 
-## 💬 Ask me about
+## 💬 About Me
+- Lorem
+- Ipsum
 
 ## 📅 Hobbies
+- 1
+- 2
+- 3
 
 ## 💻 Current project
 
