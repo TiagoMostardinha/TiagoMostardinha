@@ -18,7 +18,7 @@ Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptates maxime labo
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/asm/asm.png" alt="asm"></code>
 
 
-## 💻 Current project
+### 💻 Current project
 
 <!--
 **TiagoMostardinha/TiagoMostardinha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
