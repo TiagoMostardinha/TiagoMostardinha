@@ -9,8 +9,10 @@ Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptates maxime labo
 - c
 
 I have most of my project public, so anyone can see how well i'm doing and what im working on.
-
-<h6 align="center">📫 How to Reach me</h6>
+<div display="flex">
+    <h6 align="center">📫 How to Reach me</h6>
+    <h6>Lorem</h6>
+</div>
 
 ### 🛠 Language and Tools:
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html"></code>
