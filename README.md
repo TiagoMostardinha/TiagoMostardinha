@@ -24,11 +24,13 @@ I have most of my project public, so anyone can see how well i'm doing and what 
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
 
 
-### 💻 Current project:
-[ODIN_PROJECT](https://github.com/TiagoMostardinha/ODIN_PROJECT)
-[CS50_COURSE](https://github.com/TiagoMostardinha/CS50_COURSE)
+### 🔭 Current project:
+<ul>
+    <li>[ODIN_PROJECT](https://github.com/TiagoMostardinha/ODIN_PROJECT)</li>
+    <li>[CS50_COURSE](https://github.com/TiagoMostardinha/CS50_COURSE)</li>
+</ul>
 
-### Projects and Dev Stuffs:
+### 💻 Projects and Dev Stuffs:
 <details>	
   <summary><b>⚡ Github Stats</b></summary>
 
@@ -40,8 +42,8 @@ I have most of my project public, so anyone can see how well i'm doing and what 
 <details>	
   <summary><b>🌱 Currently Learning</b></summary>
   <ul>
-        <li><b>Lorem</b>
-        <li><b>Ipsum</b>
+        <li><b>Lorem</b></li>
+        <li><b>Ipsum</b></li>
   </ul>
 </details>
 
