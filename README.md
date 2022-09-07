@@ -36,7 +36,7 @@ I have most of my project public, so anyone can see how well i'm doing and what 
   <br />
   <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=TiagoMostardinha&show_icons=true&hide_border=false&theme=ayu-mirage&bg_color=0d1117&border_color=2e3440&&count_private=true&include_all_commits=true" />
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoMostardinha&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=false&theme=ayu-mirage&bg_color=0d1117&border_color=2e3440&layout=compact&langs_count=8"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoMostardinha&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=false&theme=ayu-mirage&bg_color=0d1117&border_color=2e3440&layout=compact&langs_count=8"/>
 </details>
 
 <details>	
