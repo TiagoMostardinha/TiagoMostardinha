@@ -42,8 +42,9 @@ I have most of my project public, so anyone can see how well i'm doing and what 
 <details>	
   <summary><b>🌱 Currently Learning</b></summary>
   <ul>
-        <li><b>Lorem</b>
-        <li><b>Ipsum</b>
+        <li><b>JavaScript</b>
+        <li><b>TypeScript</b>
+        <li><b>MySql</b>
   </ul>
 </details>
 
@@ -51,12 +52,12 @@ I have most of my project public, so anyone can see how well i'm doing and what 
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
-  	    <li><b>OS:</b> Ubuntu 20.04</li>
-	    <li><b>Laptop: </b> HP Elitebook (i5)</li>
+  	    <li><b>Dual Boot-OS:</b> Ubuntu 22.04 & Windows 10</li>
+	    <li><b>Laptop: </b> Asus Zenbook 14 (i7)</li>
   	    <li><b>Browser: </b> Firefox Web Browser</li>
-	    <li><b>Terminal: </b> ZSH: Oh My Zsh (PowerLevel10k)</li>
-	    <li><b>Code Editor:</b> VSCode - The best editor out there.</li>
-	    <li><b>To Stay Updated:</b> Dev.to, Medium, Linkedin and Twitter.</li>
+	    <li><b>Terminal: </b> Linux Shell</li>
+	    <li><b>Code Editor:</b> VSCode</li>
+	    <li><b>To Stay Updated:</b> in coming!</li>
 	    <br/>
 	</ul>	
 </details>
