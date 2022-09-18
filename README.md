@@ -42,8 +42,7 @@ I have most of my project public, so anyone can see how well i'm doing and what 
 <details>	
   <summary><b>🌱 Currently Learning</b></summary>
   <ul>
-        <li><b>JavaScript</b>
-        <li><b>TypeScript</b>
+        <li><b>JavaScript & TypeScript</b>
         <li><b>MySql</b>
   </ul>
 </details>
