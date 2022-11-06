@@ -54,7 +54,7 @@ I have most of my project public, so anyone can see how well i'm doing and what 
   	    <li><b>Dual Boot-OS:</b> Ubuntu 22.04 & Windows 10</li>
 	    <li><b>Laptop: </b> Asus Zenbook 14 (i7)</li>
   	    <li><b>Browser: </b> Firefox Web Browser</li>
-	    <li><b>Terminal: </b> Linux Shell</li>
+	    <li><b>Terminal: </b> ZSH Linux Shell</li>
 	    <li><b>Code Editor:</b> VSCode</li>
 	    <li><b>To Stay Updated:</b> in coming!</li>
 	    <br/>
