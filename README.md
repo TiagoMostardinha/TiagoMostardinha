@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tiago Mostardinha</h1>
+<h1 align="center">&gt Hi, I'm <a>Tiago Mostardinha</a></h1>
 <h4 align="center">I'm a student of Computer Engineering from Portugal</h4>
 
 ### 💬 About Me
