@@ -1,10 +1,11 @@
-h3 align="center">
-        <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://shahriarshafin.me/">Shahriar Shafin</a></b>
+        <samp>
+                「 I Code what I Design 」
+                <br>
+                「 I am a front-end web developer and passionate ui designer from <b>Bangladesh</b> 」
+                <br>
+                <br>
         </samp>
-</h3>
-
-
+	
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/TiagoMostardinha">Tiago Mostardinha</a></h1>
 <h4 align="center">I'm a student of Computer Engineering from Portugal</h4>
 
