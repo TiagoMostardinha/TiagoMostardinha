@@ -1,3 +1,7 @@
+<style>
+	*{font-family:-apple-system}
+</style>
+
 <h1 align="center">Hi 👋, I'm Tiago Mostardinha</h1>
 <h4 align="center">I'm a student of Computer Engineering from Portugal</h4>
 
