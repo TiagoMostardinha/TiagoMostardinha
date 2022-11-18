@@ -1,10 +1,10 @@
-        <samp>
-                「 I Code what I Design 」
-                <br>
-                「 I am a front-end web developer and passionate ui designer from <b>Bangladesh</b> 」
-                <br>
-                <br>
-        </samp>
+<samp>
+	 I Code what I Design 」
+	<br>
+	「 I am a front-end web developer and passionate ui designer from <b>Bangladesh</b> 」
+	<br>
+	<br>
+</samp>
 	
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/TiagoMostardinha">Tiago Mostardinha</a></h1>
 <h4 align="center">I'm a student of Computer Engineering from Portugal</h4>
