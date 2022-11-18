@@ -1,4 +1,4 @@
-<h2 align="center">&gt Hey There!, I'm <a href="https://github.com/TiagoMostardinha">Tiago Mostardinha</a></h1>
+<h2 align="center">&gt Hey There!, I am <a href="https://github.com/TiagoMostardinha">Tiago Mostardinha</a></h1>
 <p align="center">I'm a student of Computer Engineering from Portugal</p>
 
 ### 💬 About Me
