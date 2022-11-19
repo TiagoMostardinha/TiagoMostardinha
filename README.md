@@ -10,6 +10,7 @@ Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptates maxime labo
 
 I have most of my project public, so anyone can see how well i'm doing and what im working on.
 <h6 align="center">📫 How to Reach me</h6>
+
 ----
 
 ### 🛠 Language and Tools:
