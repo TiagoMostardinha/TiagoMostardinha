@@ -41,7 +41,7 @@ I have most of my project public, so anyone can see how well i'm doing and what 
 </details>
 
 <details>	
-  <summary><b>🌱 Currently Learning</b></summary>
+  <summary><b>🚀 Currently Learning</b></summary>
   <ul>
         <li><b>JavaScript & TypeScript</b>
         <li><b>MySql</b>
