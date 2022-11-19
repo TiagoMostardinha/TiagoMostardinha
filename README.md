@@ -1,5 +1,5 @@
 <h2 align="center">< Hello There, I'm <a href="https://github.com/TiagoMostardinha">Tiago Mostardinha</a> /></h2>
-<h4 align="center">I'm a student of Computer Engineering from Portugal</h4>
+<h5 align="center">I'm a student of Computer Engineering from Portugal</h5>
 
 ### 💬 About Me
 Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptates maxime laborum nemo accusantium! Culpa, dolorum cumque. Perferendis esse quia ab sint est quod, quas iure eligendi, et voluptates ipsam in. Such as:
