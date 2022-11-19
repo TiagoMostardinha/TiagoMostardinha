@@ -1,16 +1,17 @@
 <h2 align="center">< Hello There, I'm <a href="https://github.com/TiagoMostardinha">Tiago Mostardinha</a> /></h2>
 <p align="center">I'm a student of Computer Engineering from Portugal</p>
 
-### 💬 About Me
-Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptates maxime laborum nemo accusantium! Culpa, dolorum cumque. Perferendis esse quia ab sint est quod, quas iure eligendi, et voluptates ipsam in. Such as:
+<div>
+  ### 💬 About Me
+  Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptates maxime laborum nemo accusantium! Culpa, dolorum cumque. Perferendis esse quia ab sint est quod, quas iure eligendi, et voluptates ipsam in. Such as:
 
-- a
-- b
-- c
+  - a
+  - b
+  - c
 
-I have most of my project public, so anyone can see how well i'm doing and what im working on.
-<h6 align="center">📫 How to Reach me</h6>
-<hr>
+  I have most of my project public, so anyone can see how well i'm doing and what im working on.
+  <h6 align="center">📫 How to Reach me</h6>
+</div>
 
 ### 🛠 Language and Tools:
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
