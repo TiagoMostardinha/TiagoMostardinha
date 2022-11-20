@@ -6,13 +6,14 @@
 Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptates maxime laborum nemo accusantium!Culpa, dolorum cumque. 
 Perferendis esse quia ab sint est quod, quas iure eligendi. Such as:
 
-> a
-> b
-> c
+- a
+- b
+- c
 
 I have most of my project public, so anyone can see how well i'm doing and what im working on.
 ```
 <h6 align="center">📫 How to Reach me</h6>
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 
 ### 🛠 Language and Tools:
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
