@@ -13,7 +13,11 @@ Perferendis esse quia ab sint est quod, quas iure eligendi. Such as:
 I have most of my project public, so anyone can see how well i'm doing and what im working on.
 ```
 <h6 align="center">📫 How to Reach me</h6>
+
+<div align="center">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height=25></a>
+</div>
 
 ### 🛠 Language and Tools:
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
