@@ -14,9 +14,9 @@ I have most of my project public, so anyone can see how well i'm doing and what 
 ```
 <h6 align="center">📫 How to Reach me</h6>
 
-<div align="center" style="gap:50px">
-<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height=25></a>
+<div align="center">
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25 style="padding-right:50px;">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height=25 style="padding-left:50px;">
 </div>
 
 ### 🛠 Language and Tools:
