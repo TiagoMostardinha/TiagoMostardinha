@@ -1,7 +1,6 @@
 <h2 align="center">< Hello There, I'm <a href="https://github.com/TiagoMostardinha">Tiago Mostardinha</a> /></h2>
 <p align="center">I'm a student of Computer Engineering from Portugal</p>
 
-```
 ### 💬 About Me
 Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptates maxime laborum nemo accusantium! Culpa, dolorum cumque. Perferendis esse quia ab sint est quod, quas iure eligendi, et voluptates ipsam in. Such as:
 
@@ -11,7 +10,7 @@ Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptates maxime labo
 
 I have most of my project public, so anyone can see how well i'm doing and what im working on.
 <h6 align="center">📫 How to Reach me</h6>
-```
+
 ### 🛠 Language and Tools:
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
