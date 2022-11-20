@@ -55,6 +55,28 @@ I have most of my project public, so anyone can see how well i'm doing and what 
   </ul>
 </details>
 
+<code align="right">
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+JavaScript               8 hrs 34 mins       ████████████░░░░░░░░░░░░░   51.02% 
+Vue.js                   5 hrs 18 mins       ████████░░░░░░░░░░░░░░░░░   31.54% 
+Protocol Buffer          1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   6.17% 
+JSON                     41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.08% 
+protobuf                 21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.12%
+
+🔥 Editors: 
+WebStorm                 16 hrs 49 mins      █████████████████████████   100.0%
+
+💻 Operating System: 
+Mac                      16 hrs 49 mins      █████████████████████████   100.0%
+
+```
+</code>
+
 <details>	
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
