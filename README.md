@@ -3,7 +3,8 @@
 
 ### 💬 About Me
 ```
-Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptates maxime laborum nemo accusantium! Culpa, dolorum cumque. Perferendis esse quia ab sint est quod, quas iure eligendi, et voluptates ipsam in. Such as:
+Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptates maxime laborum nemo accusantium!
+Culpa, dolorum cumque. Perferendis esse quia ab sint est quod, quas iure eligendi. Such as:
 
 - a
 - b
