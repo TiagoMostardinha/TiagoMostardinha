@@ -55,10 +55,6 @@ I have most of my project public, so anyone can see how well i'm doing and what 
   </ul>
 </details>
 
-<code align="right">
-ola
-</code>
-
 <details>	
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
