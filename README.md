@@ -3,12 +3,12 @@
 
 ### 💬 About Me
 ```
-Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptates maxime laborum nemo accusantium!
-Culpa, dolorum cumque. Perferendis esse quia ab sint est quod, quas iure eligendi. Such as:
+Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptates maxime laborum nemo accusantium!Culpa, dolorum cumque. 
+Perferendis esse quia ab sint est quod, quas iure eligendi. Such as:
 
-- a
-- b
-- c
+> a
+> b
+> c
 
 I have most of my project public, so anyone can see how well i'm doing and what im working on.
 ```
