@@ -64,7 +64,6 @@ I have most of my project public, so anyone can see how well i'm doing and what 
   	    <li><b>Browser: </b> Firefox Web Browser</li>
 	    <li><b>Terminal: </b> ZSH Linux Shell</li>
 	    <li><b>Code Editor:</b> VSCode</li>
-	    <li><b>To Stay Updated:</b> in coming!</li>
 	    <br/>
 	</ul>	
 </details>
