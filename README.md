@@ -19,6 +19,7 @@ I have most of my project public, so anyone can see how well i'm doing and what 
 <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height=25>
 </div>
 <br/>
+	
 ### 🛠 Language and Tools:
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
@@ -30,7 +31,6 @@ I have most of my project public, so anyone can see how well i'm doing and what 
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/bash/bash-original.svg" style="padding-right:10px;" />
-<br/>
 
 <br/>
 ### 💻 Current Projects:
