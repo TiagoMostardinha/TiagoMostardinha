@@ -2,6 +2,7 @@
 <p align="center">I'm a student of Computer Engineering from Portugal</p>
 
 ### 💬 About Me
+```
 Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptates maxime laborum nemo accusantium! Culpa, dolorum cumque. Perferendis esse quia ab sint est quod, quas iure eligendi, et voluptates ipsam in. Such as:
 
 - a
@@ -9,6 +10,7 @@ Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptates maxime labo
 - c
 
 I have most of my project public, so anyone can see how well i'm doing and what im working on.
+```
 <h6 align="center">📫 How to Reach me</h6>
 
 ### 🛠 Language and Tools:
