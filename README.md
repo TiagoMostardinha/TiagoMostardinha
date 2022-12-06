@@ -26,6 +26,7 @@ I have most of my project public, so anyone can see how well i'm doing and what 
 <img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/typescript/typescript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/python/python-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/java/java-original.svg" style="padding-right:10px;" />
+<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="padding-right:10px;" />
 <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/git/git-original.svg" style="padding-right:10px;" />
