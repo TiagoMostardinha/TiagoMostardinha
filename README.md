@@ -60,7 +60,7 @@ I have most of my project public, so anyone can see how well i'm doing and what 
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
-  	    <li><b>Dual Boot-OS:</b> Fedora 37 & Windows 11</li>
+  	    <li><b>Dual Boot-OS:</b> Fedora 38 & Windows 11</li>
 	    <li><b>Laptop: </b> Asus Zenbook 14 (i7)</li>
   	    <li><b>Browser: </b> Firefox Web Browser</li>
 	    <li><b>Terminal: </b> ZSH Linux Shell</li>
